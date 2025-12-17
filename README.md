@@ -19,7 +19,7 @@ O projeto é dividido em três partes principais:
 * **API Back-end (Java + Spring Boot)**
 * **Banco de Dados (MySQL)**
 
-Toda a comunicação entre o aplicativo e a API é feita via **requisições HTTP**, utilizando **Retrofit** no Android.
+Toda a comunicação entre o aplicativo e a API é feita via **requisições HTTP**, utilizando Rede wifi Local.
 
 ---
 
